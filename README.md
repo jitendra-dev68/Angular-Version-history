@@ -105,3 +105,28 @@
   - Reusable Template Fragments.
   - Zone.js optional.
   - Enhanced runtime performance with code optimizations.
+
+## Angular 17 (November 2023)
+- **Key Features**:
+  - **Angular’s New Innovative Site**: A refreshed and more intuitive site experience.
+  - **Default Standalone Components**: Enhanced support and simplification for standalone components.
+  - **SSR and SSG Support**: Improved Server-Side Rendering (SSR) and Static Site Generation (SSG) capabilities.
+  - **Built-in Control Flow**:
+    - `@If`: A new directive for conditional rendering.
+    - `@If`, `@else If`, `@else`: Extended support for conditional rendering with else-if and else clauses.
+    - `@for`: A directive for iteration in templates.
+    - **Automatic Migration**: Seamless migration to the built-in control flow system.
+  - **Deferrable Views**: Support for deferring view rendering until necessary.
+  - **Build Performance with ESBuild**: Significant performance improvements during builds using ESBuild.
+
+## Angular 18 (May 2024)
+- **Key Features**:
+  - **Zoneless Change Detection with Signals**: Introduces a more efficient change detection mechanism using signals, eliminating the need for zones.
+  - **Function-based Route Redirects**: Allows for more dynamic and flexible route redirection using functions.
+  - **Improved Developer Tooling**: Enhancements to the Angular CLI and developer experience tools.
+  - **Enhanced Angular Material and CDK**: New components and improved performance for Angular Material and Component Dev Kit (CDK).
+  - **Server-Side Rendering (SSR) Enhancements**: Further optimizations and features for SSR in Angular applications.
+  - **Improved Internationalization (i18n) Support**: Better support for multi-language applications, with more tools and APIs.
+  - **TypeScript 5.4 Support**: Full compatibility with TypeScript 5.4, leveraging its latest features and improvements.
+
+
